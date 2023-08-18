@@ -1,4 +1,6 @@
 # big-buy-scraper
-python selenium bot to scrape big buy products ref. numbers from a given product's link.
+tkinter python-selenium bot to scrape big buy products ref. numbers from a given product's link.
 
-<img>
+
+<img src="Screenshot.png" width="600px">
+
